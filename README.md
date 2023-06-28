@@ -1,0 +1,1 @@
+# remove-whitespace-from-start-and-end.js
